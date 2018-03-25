@@ -10,8 +10,6 @@ These techniques are used in this implementation:
 The backend server can be found in my [this repo](https://github.com/luchenn/FruitDjangoRestServer),
 which is based on Django rest framework.
 
-<img src="https://github.com/luchenn/FruitStore/blob/master/Screenshot.png" alt="Drawing" style="width: 100px;"/>
-
 # Installation
 ```
 git clone git@github.com:luchenn/FruitStore.git
@@ -24,3 +22,6 @@ react-native run-ios
 # Acknowledgements
 
 The UI is heavily borrowed from [this project](https://github.com/shooterRao/react-native-fruitStore).
+
+
+![Screenshot](https://github.com/luchenn/FruitStore/blob/master/Screenshot.png)
