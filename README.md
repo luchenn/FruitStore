@@ -7,7 +7,7 @@ These techniques are used in this implementation:
 - Redux (for data management)
 - react-navigation (for app navigation)
 
-The backend server can be found in my [this repo](),
+The backend server can be found in my [this repo](https://github.com/luchenn/FruitDjangoRestServer),
 which is based on Django rest framework.
 
 
