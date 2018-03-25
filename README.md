@@ -20,3 +20,6 @@ react-native run-android
 react-native run-ios
 ```
 
+# Acknowledgements
+
+The UI is heavily borrowed from [this project](https://github.com/shooterRao/react-native-fruitStore).
