@@ -10,7 +10,7 @@ These techniques are used in this implementation:
 The backend server can be found in my [this repo](https://github.com/luchenn/FruitDjangoRestServer),
 which is based on Django rest framework.
 
-<img src="https://github.com/luchenn/FruitStore/blob/master/Screenshot.png" alt="Drawing" style="width: 200px;"/>
+<img src="https://github.com/luchenn/FruitStore/blob/master/Screenshot.png" alt="Drawing" style="width: 100px;"/>
 
 # Installation
 ```
